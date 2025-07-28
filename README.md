@@ -27,5 +27,15 @@ In this task, a flowchart of file permissions is created and the permissions of 
 
  ```os.chmod("t2.py",0o775)```
 
+775: This number represent the permissions I want to set where:
 
+ r=4, w=2 , x=1
+ 1. r+w+x=7 (Owner)
+ 2. r+w+x=7 (Group)
+ 3. r+x=5 (All users)
+
+5. run program then open terminal
+6. writing __ls -l__ to view file permissions 
+### image for Python file permissions (after change)
+![image_alt](https://github.com/Sa12345678434/AI-Linux/blob/main/python2.jpeg?raw=true)
 
