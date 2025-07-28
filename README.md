@@ -10,4 +10,4 @@ In this task, a flowchart of file permissions is created and the permissions of 
 
 ## image for flowchart 
 
-![image_alt]
+![image_alt](https://github.com/Sa12345678434/AI-Linux/blob/main/flowchart.png?raw=true)
