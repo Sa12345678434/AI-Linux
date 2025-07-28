@@ -14,7 +14,7 @@ In this task, a flowchart of file permissions is created and the permissions of 
 
 ## Steps to change permission for Python file
 
-### The first method (writing code inside Python script)
+### The first method (Writing code inside Python script)
 1. create file in terminal named t2.py
 2. writing command: __ls -l__ to view file permissions  
 ### image for Python file permissions (before change)
@@ -42,3 +42,4 @@ In this task, a flowchart of file permissions is created and the permissions of 
 ### image for Python file permissions (after change)
 ![image_alt](https://github.com/Sa12345678434/AI-Linux/blob/main/python2.jpeg?raw=true)
 
+### The second method (Writing chmod command directly into terminal)
