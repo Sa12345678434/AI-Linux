@@ -17,3 +17,4 @@ In this task, a flowchart of file permissions is created and the permissions of 
 ### The first method
 1. create file in terminal named t2.py
 2. writing command: __ls -l__ to view file permissions  
+### image for Python file permissions
