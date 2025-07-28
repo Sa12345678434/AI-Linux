@@ -27,7 +27,7 @@ In this task, a flowchart of file permissions is created and the permissions of 
 
  ```os.chmod("t2.py",0o775)```
 
-775: This number represent the permissions I want to set where:
+775: This number represent the permissions I want to set __rwxrwxr-x__ where:
 
  r=4, w=2 , x=1
  1. r+w+x=7 (Owner)
