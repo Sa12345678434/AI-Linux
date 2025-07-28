@@ -15,12 +15,12 @@ In this task, a flowchart of file permissions is created and the permissions of 
 ## Steps to change permission for Python file
 
 ### The first method (Writing code inside Python script)
-1. create file in terminal named t2.py
+1. created file in terminal named t2.py
 2. writing command: __ls -l__ to view file permissions  
 ### image for Python file permissions (before change)
 ![image_alt](https://github.com/Sa12345678434/AI-Linux/blob/main/python1.jpeg?raw=true)
 
-3. open Visual Studio > open file > t2.py
+3. opening Visual Studio > open file > t2.py
 4. Writing code to change permission of Python file using __chmod__ command
 
 ```import os```
@@ -43,12 +43,12 @@ In this task, a flowchart of file permissions is created and the permissions of 
 ![image_alt](https://github.com/Sa12345678434/AI-Linux/blob/main/python2.jpeg?raw=true)
 
 ### The second method (Writing chmod command directly into terminal)
-1. open terminal then create new file named t3.py
-2. write __ls -l__ command to view file permissions
+1. opening terminal then create new file named t3.py
+2. writing __ls -l__ command to view file permissions
 ### image for Python file permissions (before change)
 ![image_alt](https://github.com/Sa12345678434/AI-Linux/blob/main/py-terminal.jpeg?raw=true)
 
-3. write __sudo chmod 775 t3.py__ to set Python file to rwxrwxr-x
-4. write __ls -l__ to view permission of Python file
+3. writing __sudo chmod 775 t3.py__ to set Python file to rwxrwxr-x
+4. writing __ls -l__ to view permission of Python file
 ### image for Python file permissions (after change)
 ![image_alt](https://github.com/Sa12345678434/AI-Linux/blob/main/py2-terminal.jpeg?raw=true)
