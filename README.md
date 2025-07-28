@@ -22,8 +22,8 @@ In this task, a flowchart of file permissions is created and the permissions of 
 
 3. open Visual Studio > open file > t2.py
 4. Writing code to change permission of Python file using __chmod__ command
-```import os
 
+```import os
  os.chmod("t2.py",0o775)```
 
 
