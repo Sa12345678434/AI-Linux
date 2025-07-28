@@ -9,3 +9,5 @@ In this task, a flowchart of file permissions is created and the permissions of 
 3. Word
 
 ## image for flowchart 
+
+![image_alt]
