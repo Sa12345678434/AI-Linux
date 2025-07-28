@@ -35,7 +35,7 @@ In this task, a flowchart of file permissions is created and the permissions of 
  3. r+x=5 (All users)
 
 
-5. run program then open terminal
+5. runing program then opening terminal
 6. writing __ls -l__ to view file permissions
 
 
