@@ -44,7 +44,7 @@ In this task, a flowchart of file permissions is created and the permissions of 
 
 ### The second method (Writing chmod command directly into terminal)
 1. open terminal then create new file named t3.py
-2. write __ls -l__ command to view file permission
+2. write __ls -l__ command to view file permissions
 ### image for Python file permissions (before change)
 ![image_alt](https://github.com/Sa12345678434/AI-Linux/blob/main/py-terminal.jpeg?raw=true)
 
