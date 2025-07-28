@@ -34,8 +34,10 @@ In this task, a flowchart of file permissions is created and the permissions of 
  2. r+w+x=7 (Group)
  3. r+x=5 (All users)
 
+
 5. run program then open terminal
-6. writing __ls -l__ to view file permissions 
+6. writing __ls -l__ to view file permissions
+
 ### image for Python file permissions (after change)
 ![image_alt](https://github.com/Sa12345678434/AI-Linux/blob/main/python2.jpeg?raw=true)
 
